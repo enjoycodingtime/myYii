@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="447be611-b2a8-46c9-b7a4-be96672e96a5" name="aliyun" url="http://115.28.27.235">
+        <fileTransfer host="115.28.27.235" port="21" rootFolder="/usr/zk" password="dfd0dfc1df9bdf93df93df99" username="zk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
